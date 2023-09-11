@@ -1,6 +1,6 @@
 ### Hello!
 
-If you would like to view my projects, please check them out at ### ericdetjen.com !!!
+If you would like to view my projects, please check them out at [ericdetjen.com](https://ericdetjen.com/index.html) !!!
 
 <!--
 **Edetjen19/Edetjen19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
